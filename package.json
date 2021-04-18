@@ -1,0 +1,24 @@
+{
+  "name": "foodeeapi",
+  "version": "1.0.0",
+  "description": "Foodee Mock API for Food Delivery iOS Application",
+  "main": "index.js",
+  "scripts": {
+    "json:foodee": "json-server --watch db.json",
+    "json:foodee:viaip": "json-server --host 192.168.11.32 db.json",
+    "json:server:remote": "json-server http://jsonplaceholder.typicode.com/db"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinhNH2096/FoodeeAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinhNH2096/FoodeeAPI/issues"
+  },
+  "homepage": "https://github.com/LinhNH2096/FoodeeAPI#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

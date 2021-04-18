@@ -1,0 +1,242 @@
+{
+  "food": [
+    {
+      "foodName": "Brown Stew Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/sypxpx1515365095.jpg",
+      "price": "199",
+      "idFood": "52940"
+    },
+    {
+      "foodName": "Chick-Fil-A Sandwich",
+      "image": "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg",
+      "price": "39",
+      "idFood": "53016"
+    },
+    {
+      "foodName": "Chicken & mushroom Hotpot",
+      "image": "https://www.themealdb.com/images/media/meals/uuuspp1511297945.jpg",
+      "price": "39",
+      "idFood": "52846"
+    },
+    {
+      "foodName": "Chicken Alfredo Primavera",
+      "image": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+      "price": "299",
+      "idFood": "52796"
+    },
+    {
+      "foodName": "Chicken Basquaise",
+      "image": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+      "price": "299",
+      "idFood": "52934"
+    },
+    {
+      "foodName": "Chicken Congee",
+      "image": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+      "price": "39",
+      "idFood": "52956"
+    },
+    {
+      "foodName": "Chicken Couscous",
+      "image": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+      "price": "299",
+      "idFood": "52850"
+    },
+    {
+      "foodName": "Chicken Enchilada Casserole",
+      "image": "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg",
+      "price": "99",
+      "idFood": "52765"
+    },
+    {
+      "foodName": "Chicken Fajita Mac and Cheese",
+      "image": "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg",
+      "price": "39",
+      "idFood": "52818"
+    },
+    {
+      "foodName": "Chicken Ham and Leek Pie",
+      "image": "https://www.themealdb.com/images/media/meals/xrrtss1511555269.jpg",
+      "price": "299",
+      "idFood": "52875"
+    },
+    {
+      "foodName": "Chicken Handi",
+      "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "price": "169",
+      "idFood": "52795"
+    },
+    {
+      "foodName": "Chicken Karaage",
+      "image": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+      "price": "769",
+      "idFood": "52831"
+    },
+    {
+      "foodName": "Chicken Marengo",
+      "image": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+      "price": "299",
+      "idFood": "52920"
+    },
+    {
+      "foodName": "Chicken Parmentier",
+      "image": "https://www.themealdb.com/images/media/meals/uwvxpv1511557015.jpg",
+      "price": "39",
+      "idFood": "52879"
+    },
+    {
+      "foodName": "Chicken Quinoa Greek Salad",
+      "image": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg",
+      "price": "489",
+      "idFood": "53011"
+    },
+    {
+      "foodName": "Coq au vin",
+      "image": "https://www.themealdb.com/images/media/meals/qstyvs1505931190.jpg",
+      "price": "299",
+      "idFood": "52832"
+    },
+    {
+      "foodName": "Crock Pot Chicken Baked Tacos",
+      "image": "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg",
+      "price": "789",
+      "idFood": "52830"
+    },
+    {
+      "foodName": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+      "image": "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg",
+      "price": "339",
+      "idFood": "52996"
+    },
+    {
+      "foodName": "General Tso's Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+      "price": "79",
+      "idFood": "52951"
+    },
+    {
+      "foodName": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+      "image": "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg",
+      "price": "39",
+      "idFood": "52993"
+    },
+    {
+      "foodName": "Jerk chicken with rice & peas",
+      "image": "https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg",
+      "price": "89",
+      "idFood": "52937"
+    },
+    {
+      "foodName": "Katsu Chicken curry",
+      "image": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+      "price": "29",
+      "idFood": "52820"
+    },
+    {
+      "foodName": "Kentucky Fried Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/xqusqy1487348868.jpg",
+      "price": "459",
+      "idFood": "52813"
+    },
+    {
+      "foodName": "Kung Pao Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+      "price": "239",
+      "idFood": "52945"
+    },
+    {
+      "foodName": "Nutty Chicken Curry",
+      "image": "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg",
+      "price": "289",
+      "idFood": "52851"
+    },
+    {
+      "foodName": "Pad See Ew",
+      "image": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+      "price": "499",
+      "idFood": "52774"
+    },
+    {
+      "foodName": "Piri-piri chicken and slaw",
+      "image": "https://www.themealdb.com/images/media/meals/hglsbl1614346998.jpg",
+      "price": "279",
+      "idFood": "53039"
+    },
+    {
+      "foodName": "Potato Gratin with Chicken",
+      "image": "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg",
+      "price": "29",
+      "idFood": "52780"
+    },
+    {
+      "foodName": "Rappie Pie",
+      "image": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg",
+      "price": "69",
+      "idFood": "52933"
+    },
+    {
+      "foodName": "Rosół (Polish Chicken Soup)",
+      "image": "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg",
+      "price": "49",
+      "idFood": "53020"
+    },
+    {
+      "foodName": "Shawarma",
+      "image": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+      "price": "119",
+      "idFood": "53028"
+    },
+    {
+      "foodName": "Tandoori chicken",
+      "image": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+      "price": "99",
+      "idFood": "52806"
+    },
+    {
+      "foodName": "Teriyaki Chicken Casserole",
+      "image": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "price": "139",
+      "idFood": "52772"
+    },
+    {
+      "foodName": "Thai Green Curry",
+      "image": "https://www.themealdb.com/images/media/meals/sstssx1487349585.jpg",
+      "price": "99",
+      "idFood": "52814"
+    }
+  ],
+  "categories": [
+    {
+      "catename": "Salads",
+      "code": "CT01"
+    },
+    {
+      "catename": "Burges",
+      "code": "CT02"
+    },
+    {
+      "catename": "Pizza",
+      "code": "CT03"
+    },
+    {
+      "catename": "Hot Dogs",
+      "code": "CT04"
+    },
+    {
+      "catename": "Snacks",
+      "code": "CT05"
+    },
+    {
+      "catename": "Sushi",
+      "code": "CT06"
+    },
+    {
+      "catename": "Donuts",
+      "code": "CT07"
+    },
+    {
+      "catename": "Drinks",
+      "code": "CT08s"
+    }
+  ]
+}
